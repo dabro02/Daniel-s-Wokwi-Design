@@ -17,4 +17,4 @@ Set a default 4-bit Number on the first 4 Input Switches. The Input is set to th
 
 ## External hardware
 
-> 5 Inputs and > 1 LED.
+\> 5 Inputs and \> 1 LED.
